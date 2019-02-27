@@ -1,0 +1,199 @@
+body {
+    margin: 0px 0px 0px 0px;
+    background-image: url(file:///C:/Users/twist/Desktop/Practice_Portfolio/Basic-Portfolio/assets/images/crossline-lines.png)
+}
+
+
+.Top_Container_1 {
+    background-color: white;
+    padding-top: 10px;
+    width: 2000px;
+}
+
+
+.Name_1 {
+    border-style: none;
+    background-color: #4aaaa4;
+    width: 200px; 
+    position: relative;
+    left: 500px;
+    top: 18px;
+    margin-bottom: 0px;
+    margin-left: 30px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    text-align: center;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+
+h1 {
+    color: white;
+}
+
+
+.Menu1 {
+    position: relative;
+    left: 1300px;
+    bottom: 25px;
+    margin-right: 30px;
+    text-decoration: none;
+    color: #4aaaa4;    
+}
+
+
+a:hover {
+    color: blueviolet;
+}
+
+
+.Middle_Container_1 {
+    background-color: white;
+    margin-left: 530px;
+    margin-bottom: 80px;
+    margin-top: 300px;
+    width: 960px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 5px;
+    line-height: 2;
+}
+
+
+.banana {
+    width: 250px;
+    float: left;
+}
+
+
+.About_Me {
+    color: #4aaaa4;
+    position: relative;
+    top: 5px;
+}
+
+
+.Bottom_Container {
+    border-style: none;
+    border-top: 8px solid #4aaaa5;
+    position: relative;
+    margin-top: 350px;    
+}
+
+
+.Footer {
+    text-align: center;
+    position: relative;
+    top: 20px;
+    font-size: small;
+    background-color: #666666;
+}
+
+
+.Top_Container_2 {
+    background-color: white;
+    padding-top: 10px;
+    width: 2000px;
+}
+
+
+.Name_2 {
+    border-style: none;
+    background-color: #4aaaa4;
+    width: 200px; 
+    position: relative;
+    left: 500px;
+    top: 18px;
+    margin-bottom: 0px;
+    margin-left: 30px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    text-align: center;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+
+.Menu2 {
+    position: relative;
+    left: 1300px;
+    bottom: 25px;
+    margin-right: 30px;
+    text-decoration: none;
+    color: #4aaaa4;    
+}
+
+
+.Middle_Container_2 {
+    background-color: white;
+    margin-left: 530px;
+    margin-bottom: 80px;
+    margin-top: 300px;
+    width: 960px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 5px;
+    line-height: 2;
+}
+
+
+.Contact {
+    color: #4aaaa4;
+    position: relative;
+    top: 5px;
+}
+
+
+.Top_Container_3 {
+    background-color: white;
+    padding-top: 10px;
+    width: 2000px;
+}
+
+
+.Name_3 {
+    border-style: none;
+    background-color: #4aaaa4;
+    width: 200px; 
+    position: relative;
+    left: 500px;
+    top: 18px;
+    margin-bottom: 0px;
+    margin-left: 30px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    text-align: center;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+
+.Menu3 {
+    position: relative;
+    left: 1300px;
+    bottom: 25px;
+    margin-right: 30px;
+    text-decoration: none;
+    color: #4aaaa4;    
+}
+
+
+.Middle_Container_3 {
+    background-color: white;
+    margin-left: 530px;
+    margin-bottom: 80px;
+    margin-top: 300px;
+    width: 960px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 5px;
+    line-height: 2;
+}
+
+
+.Portfolio {
+    color: #4aaaa4;
+    position: relative;
+    top: 5px;
+}
